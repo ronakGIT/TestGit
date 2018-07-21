@@ -1,0 +1,5 @@
+I have created anthore text file from github.com webpage
+and then I would like fetch this file into my directory with
+some commands.
+
+Thank you
