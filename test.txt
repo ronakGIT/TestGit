@@ -1,5 +1,9 @@
 Hello everybody,
 This is my first text file using GIT and it is only for testing purpose.
 
+Well, first commit is done successfully.
+
+Now trying some stuff as I am learning new things.
+
 Thank you,
 Ronak Jain
