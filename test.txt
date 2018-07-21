@@ -5,5 +5,7 @@ Well, first commit is done successfully.
 
 Now trying some stuff as I am learning new things.
 
+Now, I am testing "git diff" command.
+
 Thank you,
 Ronak Jain
